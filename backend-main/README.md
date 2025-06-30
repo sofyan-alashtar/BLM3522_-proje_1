@@ -1,7 +1,7 @@
 
-# Gazi BnB Backend
+# Backend
 
-Bu proje, Gazi BnB tatil rezervasyon uygulamasının backend kısmını oluşturmaktadır. Kullanıcıların tatil yerlerini incelemesi, rezervasyon yapması ve favorilerine eklemesi gibi işlemlerin yönetimini sağlayan bir sistemdir.
+Bu proje, Tatil rezervasyon uygulamasının backend kısmını oluşturmaktadır. Kullanıcıların tatil yerlerini incelemesi, rezervasyon yapması ve favorilerine eklemesi gibi işlemlerin yönetimini sağlayan bir sistemdir.
 
 ## Kullanılan Teknolojiler
 - **Backend:** Java (Spring Boot), PostgreSQL
@@ -38,9 +38,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    spring.datasource.password=parolaniz
    ```
 
-## Frontend Detayları
 
-Bu backend, Gazi BnB tatil rezervasyon uygulamasının frontend kısmı ile entegre çalışmaktadır. Frontend detayları ve kurulum talimatlarına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-> **Frontend için kaynak kodları ve daha fazla bilgiye ulaşmak için:**
-> [Gazi BnB Frontend GitHub Repository](https://github.com/atillaertas1/gazi-bnb)
+
