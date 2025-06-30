@@ -43,8 +43,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    spring.datasource.password=parolaniz
    ```
 
-> **Backend için kaynak kodları ve daha fazla bilgiye ulaşmak için:**
-> [Gazi BnB Backend GitHub Repository](https://github.com/atillaertas1/gazibnb-backend)
+
 
 #### Frontend (React)
 
